@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "岸辺の誰か",
+  "base_artist": "SKE48",
+  "createdAt": "2025-12-15T04:40:33.894124Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "岸辺の誰か",
+      "artist": "SKE48",
+      "has_synced": false,
+      "path": "select/pl_01_岸辺の誰か_SKE48.txt"
+    }
+  ]
+}
